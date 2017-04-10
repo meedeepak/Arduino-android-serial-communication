@@ -3,7 +3,7 @@ This project connect arduino and android through usb. You can make any complex a
 
 This project is base on Jarduino : https://github.com/SINTEF-9012/JArduino
 Modified and Upgraded Files:
-AbstractJArduino.java
-AndroidUsb4JArduino.java
+[AbstractJArduino.java]
+[AndroidUsb4JArduino.java]
 
 and https://github.com/mik3y/usb-serial-for-android/
